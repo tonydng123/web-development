@@ -1,1 +1,1 @@
-This is a self-taught web development bootcamp.
+This is a self-taught web development.
